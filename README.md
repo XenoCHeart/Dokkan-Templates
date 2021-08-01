@@ -5,3 +5,5 @@ You're free to use it and credit is appreciated. Just use a link to this page so
 
 
 Also don't expect me to be making a bunch of these constantly, haha. I'm just one guy working on these along with Xenoverse & FighterZ modding on top of Dokkan. 
+
+Some templates are full recreations, some are edits, while a bit of it is from the files of the game. 
